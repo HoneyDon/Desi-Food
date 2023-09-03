@@ -181,30 +181,6 @@ body {
 }
 
 /* home content */
-/* top icons */
-#top-icons {
-    margin-top: 50px;
-}
-
-#top-icons h1 {
-    text-align: center;
-    font-weight: bold;
-    font-family: 'Dancing Script', cursive;
-    border-bottom: 2px solid #ffc800;
-    text-shadow: 1px 1px 1px black;
-}
-
-#top-icons i img {
-    width: 100px;
-}
-
-#top-icons h3 {
-    font-size: 18px;
-    font-family: 'Roboto Slab', serif;
-    margin-left: 20px;
-}
-
-/* top icons */
 
 /* cards */
 #cards {
